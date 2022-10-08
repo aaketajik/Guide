@@ -1,0 +1,135 @@
+LE GUIDE DES RESSOURCES POUR APPRENDRE LE JAPONAIS AVEC LES ANIMANGAS
+par Ake édition 2022
+
+Avertissements : 
+Toutes les ressources présentées ici sont gratuites sauf indication contraire. En conséquence, certaines sont également illégales.
+Ce catalogue n’est pas exhaustif.
+
+Je considère que tout le monde connaît déjà Anki, je ne reviendrais donc pas dessus ici. 
+Si vous ne connaissez pas, il existe de très nombreux tutoriels qui vous expliqueront mieux que moi ce que c’est et comment ça marche.
+
+TRADUCTION ET COMPREHENSION / 翻訳と理解
+
+Je vais présenter dans cette section différents outils qui vont permettre de traduire et comprendre rapidement un texte en japonais. 
+Le but est en effet, lorsque l’on rencontre un mot ou une conjugaison inconnu, de le traduire efficacement afin de pouvoir avancer rapidement dans la lecture.
+
+	Yomichan (https://foosoft.net/projects/yomichan/)
+
+Yomichan est une extension pour navigateur web disponible sur le chrome store, qui est absolument indispensable. 
+Après l’avoir ajoutée et installé des dictionnaires (je conseille d’en avoir au moins 3, un anglais, un français et un dictionnaire des noms propres), on peut, 
+en appuyant sur Shift tout en mettant son curseur au dessus d’un mot, en avoir la traduction qui s’affiche immédiatement. 
+Cela permet de lire un texte extrêmement rapidement, même si beaucoup de mots nous sont inconnus.
+A noter néanmoins que la traduction n’est possible que si le texte est sélectionnable. Impossible donc de lire un manga ou une LN sous forme d’images.
+Cette extension a également une deuxième fonctionnalité : en installant l’addon Ankiconnect sur Anki (explication sur le site), on peut s’en servir pour créer 
+instantanément une carte Anki d’un mot. Indispensable pour la création d’un deck de mine, dont je conseille le création lorsque l’on a suffisamment avancé dans 
+le core6k.
+
+	Jisho (jisho.org) 
+
+Dictionnaire en anglais sous forme de site qui est bien plus exhaustif que les dictionnaires de Yomichan. 
+Je m’en sers lorsque yomichan ne connaît pas un mot, ou lorsque je dois traduire un mot non sélectionnable. 
+On peut faire une recherche en kanji, kanas, romaji ou même directement avec un mot anglais, très pratique. 
+Les mots sont sélectionnables et peuvent donc être ajoutés à un deck Anki. 
+Il y également une fonctionnalité de recherche par radicaux (choisir un à un chaque radical d’un caractère), qui peut être utile lorsque toutes les autres options 
+pour trouver un caractère ont échouées.
+
+	KanjiTomo (https://kanjitomo.net) 
+
+Logiciel d’OCR pour traduire les mots faisant partie d’images, il sert pour lire des mangas et certaines LN. 
+Relativement bon mais échoue souvent à reconnaître des mots, qu’il faut alors alors aller chercher sur Jisho si on connaît leur prononciation. 
+Si on ne connaît pas la prononciation, voir catégorie suivante.
+De plus, le fonctionnement est assez encombrant, à n’utiliser qu’au début lorsque de nombreux mots nous sont inconnus. 
+Quand le besoin de traduction se fait moins important, mieux vaut directement rechercher les mots sur Jisho.
+
+	
+	Google Traduction
+
+La fonction de traduction de Google Trad n’a pas vraiment d’intérêt, Jisho est bien meilleur. 
+En revanche, en choisissant Japonais et en cliquant sur le petit crayon en bas à droite, s’ouvre un champ de dessin permettant de trouver un caractère en le dessinant.
+Cette fonctionnalité est vraiment très bien faite, même en se trompant complètement d’ordre de traits et de proportion, elle arrive à trouver dans 99 % des cas. 
+Les caractères ainsi obtenus peuvent ensuite être copié-collés dans Jisho pour trouver leur traduction.
+
+	
+  Avec toutes ces applications, vous devriez être capable de retrouver et traduire n’importe quel mot, quelque soit la forme sous laquelle il se présente. 
+  Passons maintenant au contenu japonais en lui-même.
+  
+  ANIME / アニメ
+
+Pour les animes, il y de manière générale 2 choix : le streaming ou le torrent.
+
+	Le streaming
+On trouve de très nombreux sites de streaming, j’utilise personnellement https://animixplay.to , ils sont rapides à l’upload et ont un très grand catalogue. 
+Malheureusement, les sous-titres sont uniquement en anglais.
+Zoro.to est également intéressant puisqu’il permet de désactiver les sous-titres, si vous voulez un challenge.
+
+	Le torrent
+L’incontournable en ce qui concerne tout ce qui vient du Japon est nyaa.si.
+On peut y trouver des animes, en séries entières ou épisode par épisode, avec des sous-titres dans de nombreuses langues, dont français, et aussi en japonais 
+(pas pour toutes les séries cependant).
+Je conseille fortement le visionnage d’anime avec des sous-titres japonais, vous allez faire beaucoup de pauses pour relire, réécouter et rechercher des mots, 
+mais c’est un moyen extrêmement efficace d’apprentissage, qui combine de plus écoute et lecture.
+	Et n’oubliez pas de seeder.
+  
+  MANGAS / 漫画
+
+	Un peu à la manière des animes, on peut les lire directement sur Internet ou les télécharger.
+	
+	Sur Internet 
+Pour lire un manga en Japonais, c’est assez complexe. Les catalogues sont limités et lorsque les séries sont disponibles, il manque souvent des chapitres ou la qualité
+du scan laisse à désirer.
+Voici néanmoins quelques sites de mangas en japonais disponibles gratuitement.
+- https://klmanga.net
+- https://raw.senmanga.com
+- https://mangaraw.to (le meilleur amha)
+
+	En téléchargeant
+Encore un fois, nyaa.si est vraiment la source quasiment unique de torrents de manga. 
+Il suffit de recherche le titre du manga en japonais ou de sélectionner «literature - raw » dans la recherche avancée pour tomber sur les torrents de mangas en 
+japonais. Certaines séries n’y sont pas et certains scans ne sont pas de très bonne qualité, mais de manière général vous devriez trouver votre bonheur sur ce site.
+
+LIGHT NOVELS ET WEBNOVELS / ラノベと小説
+
+	Toutes les light novels les plus célèbres sont sur nyaa.si, je ne vous apprends rien de nouveau. 
+https://itazuraneko.neocities.org/library/shousetu.html est également un catalogue de plus de 8000 œuvres disponibles gratuitement.
+	Si vous voulez lire des web novels et peut être découvrir la prochaine pépite avant tout le monde, https://syosetu.com (小説家になろう) est le site principal 
+sur lequel beaucoup de séries célèbres ont commencé.
+
+VISUAL NOVELS ET JEUX / ゲーム
+
+	Encore et toujours nyaa.si.
+A noter néanmoins qu’il faut aller sur le site affilié https://sukebei.nyaa.si si vous voulez trouver des jeux pour adultes. 
+(site sur lequel on trouve toutes sortes de contenu 18+ qui sont bannis du site principal). Certaines VNs SFW sont également sur sukebei, cherchez sur les 2.
+	Il est nécessaire pour installer certaines de ces VNs de mettre le locale de son ordinateur en Japonais. Faites-le de toute façon, ça donne un style.
+Vndb.org pour une database de plus ou moins toutes les VNs qui existent.
+
+DIVERS
+
+	Acheter
+Si vous voulez absolument lire une série mais que vous n’arrivez à la trouver piratée nulle part, vous pouvez toujours l’acheter légalement sur un site japonais. 
+Les prix sont relativement abordables, en moyenne 4-5€ par volume. Souvent, on arrive à trouver la majorité d’une série en piratant, mais il manque quelques volumes 
+qu’il faut acheter.
+	J’utilise bookwalker.jp, ils ont plus ou moins tout ce qui existe des mangas aux LN et même des doujins.
+
+	Grammaire
+La grammaire japonaise est assez simple et n’est vraiment pas l’obstacle principal à l’apprentissage de cette langue, mais il convient tout de même de l’étudier.
+https://itazuraneko.neocities.org/grammar/taekim.html est un guide complet sur la grammaire de base du japonais. Si vous êtes un débutant, lisez ce guide une fois 
+en entier, puis revenez-y si vous rencontrez une forme que vous ne comprenez pas, mais n’y passez pas plus de temps que ça.
+
+	Twitter
+Si comme moi vous passez beaucoup trop de temps sur Twitter, autant faire fructifier ces heures en suivant de nombreux comptes japonais. 
+Suivez les sujets qui vous intéresse. Si vous n’avez pas d’idée, je vous autorise à fouiller mes abonnements pour trouver des premiers comptes à follow 
+(principalement mangakas, comptes humoristiques et étudiants random).
+	Même recommandation pour Youtube, qui a en plus l’avantage de faire écouter un japonais parlé tout les jours.
+
+	Ordre des choses
+Je conseille tout d’abord de commencer le deck core6k sur Anki, et en parallèle de commencer à lire des mangas simples (shounen), si possible avec des furiganas. 
+Une fois le deck core6k bien avancé (plus de la moitié des cartes vues), ouvrir un deuxième deck, le deck de mine, dans lequel mettre les mots inconnus rencontrés 
+lors des lectures (grâce à Yomichan). Vous pouvez garder le même nombre de nouvelles cartes par jour mais simplement le diviser entre les 2 decks pour ne pas trop 
+augmenter la charge de travail. Commencer en même temps à lire des mangas plus divers, sans furiganas. Une fois le deck core 6k entièrement terminé, se concentrer 
+plus sérieusement sur le deck de mine et lire tout ce que vous voulez, des LN, VN…
+
+Évidemment ce n’est qu’un vague fil rouge que je vous conseille de suivre dans les grandes lignes, mais le plus important est de lire ce que vous avez envie de lire, 
+même si c’est « trop dur » pour votre niveau. C’est très désagréable de se forcer à lire quelque chose qu’on n’aime pas, de plus sur son temps libre.
+
+J’espère que toutes ces ressources vont seront utiles dans votre apprentissage.
+一緒に、日本語ペラペラを目指して頑張ろう！
